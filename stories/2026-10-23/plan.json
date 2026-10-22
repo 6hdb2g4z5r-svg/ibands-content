@@ -1,0 +1,221 @@
+{
+ "date": "2026-10-23",
+ "items": [
+  {
+   "id": "s1",
+   "template": "grille",
+   "publish_at": "2026-10-23 12:30",
+   "kicker": "En stock · Apple Watch",
+   "titre_html": "<style>.kicker{margin-top:40px}.vis{margin-top:36px;justify-content:flex-start}.grid figure img{aspect-ratio:16/9}.grid{gap:22px}figcaption{padding:16px 22px 18px}</style>Ocean Band,<br><i>en couleurs.</i>",
+   "texte": "Aussi dispo : Red Wine, Yellow, Black.",
+   "fond": {
+    "couleur": "#15183a"
+   },
+   "palette": {
+    "fond": "#15183a",
+    "accent": "#e8b04a"
+   },
+   "produits": [
+    {
+     "nom": "Ocean Band · Midnight Blue",
+     "detail": "38/40/41mm",
+     "image": "https://static.wixstatic.com/media/decf36_45e941b9a5594025b93a29958d8b84d6~mv2.png/v1/fit/w_1200,h_1200,q_90/file.jpg"
+    },
+    {
+     "nom": "Ocean Band · Red",
+     "detail": "38/40/41 et 42/44/45mm",
+     "image": "https://static.wixstatic.com/media/decf36_36d7ed8cd0714b5ca692b379662fdb77~mv2.png/v1/fit/w_1200,h_1200,q_90/file.jpg"
+    },
+    {
+     "nom": "Ocean Band · Green",
+     "detail": "42/44/45mm",
+     "image": "https://static.wixstatic.com/media/decf36_27931e8c780c475fabdee2e439b3d5f6~mv2.png/v1/fit/w_1200,h_1200,q_90/file.jpg"
+    },
+    {
+     "nom": "Ocean Band · Starlight",
+     "detail": "42/44/45mm",
+     "image": "https://static.wixstatic.com/media/decf36_81983cbbbbb44c88b65ed3490bf0d3de~mv2.png/v1/fit/w_1200,h_1200,q_90/file.jpg"
+    }
+   ],
+   "produits_ref": [
+    {
+     "stock_id": "ocean-bleunuit-s",
+     "nom": "Ocean Band",
+     "couleur": "Midnight Blue",
+     "taille": "38/40/41mm",
+     "produit_id": "6eb3be7f-32dd-b364-8bfb-f61418e09b03"
+    },
+    {
+     "stock_id": "ocean-rouge-s",
+     "nom": "Ocean Band",
+     "couleur": "Red",
+     "taille": "38/40/41mm",
+     "produit_id": "6eb3be7f-32dd-b364-8bfb-f61418e09b03"
+    },
+    {
+     "stock_id": "ocean-rouge-l",
+     "nom": "Ocean Band",
+     "couleur": "Red",
+     "taille": "42/44/45mm",
+     "produit_id": "6eb3be7f-32dd-b364-8bfb-f61418e09b03"
+    },
+    {
+     "stock_id": "ocean-vert-l",
+     "nom": "Ocean Band",
+     "couleur": "Green",
+     "taille": "42/44/45mm",
+     "produit_id": "6eb3be7f-32dd-b364-8bfb-f61418e09b03"
+    },
+    {
+     "stock_id": "ocean-starlight-l",
+     "nom": "Ocean Band",
+     "couleur": "Starlight",
+     "taille": "42/44/45mm",
+     "produit_id": "6eb3be7f-32dd-b364-8bfb-f61418e09b03"
+    },
+    {
+     "stock_id": "ocean-bordeaux-s",
+     "nom": "Ocean Band",
+     "couleur": "Red Wine",
+     "taille": "38/40/41mm",
+     "produit_id": "6eb3be7f-32dd-b364-8bfb-f61418e09b03"
+    },
+    {
+     "stock_id": "ocean-jaune-s",
+     "nom": "Ocean Band",
+     "couleur": "Yellow",
+     "taille": "38/40/41mm",
+     "produit_id": "6eb3be7f-32dd-b364-8bfb-f61418e09b03"
+    }
+   ],
+   "titre": "Ocean Band, en couleurs."
+  },
+  {
+   "id": "s2",
+   "template": "lifestyle",
+   "publish_at": "2026-10-23 18:00",
+   "photo": "https://i.pinimg.com/originals/36/0f/b2/360fb27659f885f260695faa5655dfd4.jpg",
+   "cadrage": "bandeau",
+   "photo_haut": 600,
+   "position": "center 45%",
+   "ton": "sombre",
+   "kicker": "En stock · Coque iPhone",
+   "titre": "Burgundy\nSilicone Case.",
+   "taille_titre": 92,
+   "carte": {
+    "titre": "Modèles dispo",
+    "puces": [
+     "iPhone 11",
+     "11 Pro",
+     "12 Pro Max",
+     "13 Pro",
+     "14 Pro",
+     "14 Pro Max",
+     "15 Pro Max",
+     "16 Plus",
+     "16 Pro Max"
+    ]
+   },
+   "produits": [
+    {
+     "nom": "Burgundy Silicone Case",
+     "detail": "iPhone 11 → 16 Pro Max · Burgundy",
+     "image": "https://static.wixstatic.com/media/decf36_d5828f944f1a479c9919fe8e2913ce35~mv2.jpg/v1/fit/w_1200,h_1200,q_90/file.jpg"
+    }
+   ],
+   "produits_ref": [
+    {
+     "stock_id": "silcase-burgundy-11",
+     "nom": "Burgundy Silicone Case",
+     "modele": "iPhone 11",
+     "produit_id": "869f3b10-3b52-f85a-44f6-3cdb184d5663"
+    },
+    {
+     "stock_id": "silcase-burgundy-11pro",
+     "nom": "Burgundy Silicone Case",
+     "modele": "iPhone 11 Pro",
+     "produit_id": "869f3b10-3b52-f85a-44f6-3cdb184d5663"
+    },
+    {
+     "stock_id": "silcase-burgundy-12promax",
+     "nom": "Burgundy Silicone Case",
+     "modele": "iPhone 12 Pro Max",
+     "produit_id": "869f3b10-3b52-f85a-44f6-3cdb184d5663"
+    },
+    {
+     "stock_id": "silcase-burgundy-13pro",
+     "nom": "Burgundy Silicone Case",
+     "modele": "iPhone 13 Pro",
+     "produit_id": "869f3b10-3b52-f85a-44f6-3cdb184d5663"
+    },
+    {
+     "stock_id": "silcase-burgundy-14pro",
+     "nom": "Burgundy Silicone Case",
+     "modele": "iPhone 14 Pro",
+     "produit_id": "869f3b10-3b52-f85a-44f6-3cdb184d5663"
+    },
+    {
+     "stock_id": "silcase-burgundy-14promax",
+     "nom": "Burgundy Silicone Case",
+     "modele": "iPhone 14 Pro Max",
+     "produit_id": "869f3b10-3b52-f85a-44f6-3cdb184d5663"
+    },
+    {
+     "stock_id": "silcase-burgundy-15promax",
+     "nom": "Burgundy Silicone Case",
+     "modele": "iPhone 15 Pro Max",
+     "produit_id": "869f3b10-3b52-f85a-44f6-3cdb184d5663"
+    },
+    {
+     "stock_id": "silcase-burgundy-16plus",
+     "nom": "Burgundy Silicone Case",
+     "modele": "iPhone 16 Plus",
+     "produit_id": "869f3b10-3b52-f85a-44f6-3cdb184d5663"
+    },
+    {
+     "stock_id": "silcase-burgundy-16promax",
+     "nom": "Burgundy Silicone Case",
+     "modele": "iPhone 16 Pro Max",
+     "produit_id": "869f3b10-3b52-f85a-44f6-3cdb184d5663"
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "template": "hero",
+   "publish_at": "2026-10-23 21:00",
+   "kicker": "Fin de série · iPhone Pro Max",
+   "titre_html": "Midnight<br><i>Leather Case.</i>",
+   "texte": "MagSafe, toucher doux, bleu nuit profond.",
+   "badge": "Dernières pièces",
+   "fond": {
+    "couleur": "#1b2233"
+   },
+   "palette": {
+    "fond": "#1b2233",
+    "accent": "#c9a46a"
+   },
+   "produits": [
+    {
+     "nom": "Midnight Leather Case MagSafe",
+     "detail": "iPhone 11 Pro Max · iPhone 12 Pro Max",
+     "image": "https://static.wixstatic.com/media/decf36_8b1aa2559aed48a0ad224f552c96b100~mv2.jpg/v1/fit/w_1200,h_1200,q_90/file.jpg"
+    }
+   ],
+   "produits_ref": [
+    {
+     "stock_id": "leathercase-midnight-11promax",
+     "nom": "Midnight Leather Case MagSafe",
+     "modele": "iPhone 11 Pro Max",
+     "produit_id": "bcb092d7-6349-4068-8776-0a40b4baf5e4"
+    },
+    {
+     "stock_id": "leathercase-midnight-12promax",
+     "nom": "Midnight Leather Case MagSafe",
+     "modele": "iPhone 12 Pro Max",
+     "produit_id": "bcb092d7-6349-4068-8776-0a40b4baf5e4"
+    }
+   ]
+  }
+ ]
+}
